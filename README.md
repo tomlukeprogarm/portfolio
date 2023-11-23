@@ -24,7 +24,7 @@ Portfolio GitHub Repo
 
 ## COLOURS
 
-![colour scheme](colour-scheme/web-dev.png)
+![colour scheme](Plan/colour-scheme/web-dev.png)
 
 ## colour plan
 
@@ -39,6 +39,6 @@ hover: #A5AA52
 
 ## STRUCTURE
 
-![mindmap](plan-assets/mindmap.jpg)
+![content plan](Plan/plan-assets/mindmap.jpg)
 
-![website flowchart](plan-assets/web-plan.jpg)
+![website plan](Plan/plan-assets/web-plan.jpg)
