@@ -11,7 +11,7 @@
 
 ## COLOURS
 
-![Colour Scheme](colour-scheme/web-dev.png)
+![colour scheme](colour-scheme/web-dev.png)
 
 ## colour plan
 
@@ -22,3 +22,10 @@ buttons: #D2D7DF (potentially)
 hover: #A5AA52
 
 ('https://coolors.co/?home')
+
+
+## STRUCTURE
+
+![mindmap](plan-assets/mindmap.jpg)
+
+![website flowchart](plan-assets/web-plan.jpg)
