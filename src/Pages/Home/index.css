@@ -1,1 +1,13 @@
+button{
+  background-color:#D2D7DF ;
+  margin-right: 20px;
+  padding: 20px 70px;
+  border: none;
+  border-radius: 12px;
+}
+
+
+button:hover{
+  background-color: #A5AA52;
+}
 

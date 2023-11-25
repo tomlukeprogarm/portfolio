@@ -1,27 +1,30 @@
 import About from "../About";
 import Projects from "../Projects";
 import Experience from "../Experience";
+import './index.css'
+
 
 const Home = () => {
-
-    return (
+  return (
     <>
       <header>
-{/* header content*/}
+        <h1>Hi, I'm Tom</h1>
+
+        <p>Passionate about pretty websites and even prettier code!</p>
+
       </header>
 
       <main>
-<About />
-<Experience/>
-<Projects />
+        <button><About /></button>
+        <button><Experience /></button>
+        <button><Projects /></button>
       </main>
 
       <footer>
-{/* footer content */}
+
       </footer>
     </>
   );
 };
-
 
 export default Home;
