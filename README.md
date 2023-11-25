@@ -27,7 +27,7 @@ Portfolio GitHub Repo
 
 background: #FFFFFF
 main text: #353535
-accent text: #828C5
+accent text: #828C51
 buttons: #D2D7DF (potentially)
 hover: #A5AA52
 
