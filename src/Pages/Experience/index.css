@@ -1,0 +1,43 @@
+.education,
+.experience{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+
+
+.header-experience{
+  margin-bottom: 0;
+}
+
+.experience-para{
+  margin: 30px 50px;
+  text-align: center;
+  border: 2px solid;
+  padding: 30px;
+  color: white;
+  background-color: black;
+}
+
+
+
+.header-education{
+  
+  display: flex;
+  justify-content:center;
+ 
+}
+
+.header-education,
+.education-list{
+  width: 50%;
+  height: 75%;
+  
+}
+
+.education-list{
+  list-style: none;
+  
+}

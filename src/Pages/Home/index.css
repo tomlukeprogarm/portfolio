@@ -9,16 +9,22 @@ margin: 30px;
 
 }
 
-h1{
+.header-name{
+  font-size: 30px;
+}
+
+a{
   text-decoration: none;
 }
+
+
 .socials{
   padding-right: 10px;
 }
 
 .nav{
   padding-right: 30px;
-  text-decoration: none;
+
 }
 
 .nav:hover{
