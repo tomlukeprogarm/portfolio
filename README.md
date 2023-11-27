@@ -1,42 +1,33 @@
 ## READ ME
 
-About My Portfolio Project
+  Mid-way through creating my portfolio i ended up doing more research on modern wesites and enjoyed the super minimalistic approach.
 
-Tech Stack (i.e. what technology / frameworks / libraries you used)
-Why This Stack
+  I think it works better in terms of a business/portfolio as it looks clean and professional.
 
-Links
-Online Hosted Portfolio
-Portfolio GitHub Repo
+  I will want to in future add more interesting components like potentially a little web browser game implemented into my code somewhere, I enjoyed the example of this as it was engaging!! Did some looking into that one website and like it a lot so I may try my hand at that in the future.
+
+  In this website I was able to use a lot of the concepts that we have been learning recently, I am proud of myself for getting them to work as I feel like I have struggled with the understanding protion!
 
 ## PLAN
 
-- [] Biography/Self-Intro - a paragraph or two about you.
+- [x] Biography/Self-Intro - a paragraph or two about you.
 
-- [] Tech Stack - the languages/technologies that you have experience with.
+- [x] Tech Stack - the languages/technologies that you have experience with. this is going in experience when i expand on it
 
-- [] Education / Experience - only those that are relevant to coding / the line of work you want to go into.
+- [x] Education / Experience - only those that are relevant to coding / the line of work you want to go into.
 
-- [] Projects - sites/apps that you have built.
+- [x] Projects - sites/apps that you have built.
 
-## COLOURS
 
-![colour scheme](Plan/colour-scheme/web-dev.png)
-
-## colour plan
-
-background: #FFFFFF
-main text: #353535
-accent text: #828C51
-buttons: #D2D7DF (potentially)
-hover: #A5AA52
-
-('<https://coolors.co/?home>')
 
 ## STRUCTURE
 
-Content:
-![content plan](Plan/plan-assets/mindmap.jpg)
+<App>
+└── <Home>
+    ├── <Socials />
+├── <About>
+├── <Experience>
+│   └── <EducationList />
+└── <Projects>
+    └── <Project />
 
-Code:
-![code plan](Plan/plan-assests/web-plan.jpg)
