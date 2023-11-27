@@ -1,0 +1,22 @@
+
+.project-list{
+  display: flex;
+  flex-direction: ;
+  list-style:none ;
+
+}
+
+.project-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 470px);
+  grid-template-rows: repeat(2, 400px);
+
+}
+
+.project-gallery img {
+  border: 2px solid;
+  width: 87%; 
+  height: 90%;
+  object-fit:fill;
+ 
+}

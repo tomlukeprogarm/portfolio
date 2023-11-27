@@ -1,0 +1,17 @@
+const projectData = [
+  {
+    name: "Pokemon Cards",
+    imageURLs: ["src/Pages/Projects/components/project-images/pokemon-cards/pokemon-card.png", "src/Pages/Projects/components/project-images/pokemon-cards/pokemon-card2.png", "src/Pages/Projects/components/project-images/pokemon-cards/poke-code.png", "src/Pages/Projects/components/project-images/pokemon-cards/poke-code2.png"],
+    description:
+      "A Pokemon Trading Cards show page, using JavaScript DOM to render dynamic HTML",
+    github: "https://github.com/tomlukeprogarm/js-dom-pokemon-cards",
+  },
+  {
+    name: "",
+    imageURLs: ["imageURL_2_1", "imageURL_2_2", "imageURL_2_3", "imageURL_2_4"],
+    description: "",
+    github: "",
+  },
+];
+
+export default projectData;
